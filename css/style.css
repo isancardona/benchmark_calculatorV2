@@ -1,0 +1,62 @@
+#footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    margin: 0;
+    background-color: rgb(255, 98, 0);
+    color: white;
+
+}
+
+#selector {
+    padding: 25px;
+}
+
+.column {
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+}
+
+#cmiyc_form {
+    padding: 10px;
+    width: 100%;
+    background-color: darkorange;
+}
+
+#cmiyc_form2 {
+    padding: 10px;
+    width: 100%;
+    background-color: darkorange;
+
+}
+
+#body {
+    background-color: rgb(234, 206, 155);
+}
+
+.navbar_bg-body-tertiary {
+    background-color: black;
+}
+
+#mile_form {
+    padding: 50px;
+    width: 100%;
+    background-color: darkorange;
+}
+
+#twelve_min {
+    padding: 50px;
+    width: 100%;
+    background-color: darkorange;
+}
+
+#mile_output {
+    padding: 50px;
+    width: 100%;
+}
+
+h1  {
+    text-align: center;
+}
